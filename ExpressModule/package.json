@@ -1,0 +1,20 @@
+{
+  "name": "example-server-app-with-express",
+  "version": "0.0.1",
+  "description": "Ejemplo de servidor basico utilizando el framework de express",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "example"
+  ],
+  "author": "juanramirez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

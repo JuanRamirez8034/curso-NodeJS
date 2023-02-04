@@ -1,0 +1,17 @@
+{
+  "name": "init-example",
+  "version": "0.0.1",
+  "description": "Esto es un ejemplo de inicializacion de proyecto nuevo",
+  "main": "index.js",
+  "scripts": {
+    "correr": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Example",
+    "init",
+    "npm"
+  ],
+  "author": "Juan Ramirez",
+  "license": "ISC"
+}

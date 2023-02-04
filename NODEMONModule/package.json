@@ -1,0 +1,22 @@
+{
+  "name": "example-nodemon",
+  "version": "0.0.1",
+  "description": "Este es un ejemplo de usabilidad de nodemon en modo desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "nodemon",
+    "example"
+  ],
+  "author": "Juan Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
